@@ -6,8 +6,8 @@ Generate images manipulate from scratch based on a text prompt (OpenAI DALL·E m
 - Fork this project to your local directory using the following git command:
 
 ```bash
-git clone https://github.com/JavascriptDon/Artify.git
-cd Artify
+git clone -b Artify https://github.com/JavascriptDon/GPT-4-Projects-.git
+cd GPT-4-Projects-
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
