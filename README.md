@@ -15,7 +15,7 @@ cd GPT-4-Projects-
 - Install the dependencies...
 
 ```bash
-cd Artify
+cd GPT-4-Projects-
 npm install
 ```
 
