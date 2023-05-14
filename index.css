@@ -70,7 +70,7 @@ main {
     grid-area: clear-btn;
     height: 20px;
     padding: 0;
-    width: 80%;
+    width: 100%;
     color: var(--medium-light-text);
     font-size: 12px;
     margin: 0 auto; 

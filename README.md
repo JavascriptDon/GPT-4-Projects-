@@ -1,21 +1,32 @@
-# co98043ff84e7f72ef07cea87
+# Bot Dev
 
-Quick start:
+Build an Coding Assistant.
+
+## Getting Started
+
+Fork this project to your local directory using the following git command:
 
 ```
-$ npm install
-$ npm start
-````
+git clone -b BotDev https://github.com/JavascriptDon/GPT-4-Projects-.git
+cd GPT-4-Projects-
+```
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Note that you will need to have Node.js installed.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Install the dependencies...
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+```
+cd GPT-4-Projects-
+npm install
+```
 
-Happy Coding!
+then start Rollup:
+
+```
+npm run dev
+```
+Navigate to http://localhost:5173. You should see your app running. Edit a component file in src, save it, and reload the page to see your changes.
+
+Head over to https://vitejs.dev/ to learn more about using vite. 
+
+![BotDev](https://github.com/JavascriptDon/GPT-4-Projects-/assets/101202952/651e2dcc-4232-40dc-b8ee-3b14216f6f12)
