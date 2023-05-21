@@ -15,6 +15,6 @@ Build an Anime Pitch generator.
 
 ## 3. [BoteDev](https://github.com/JavascriptDon/GPT-4-Projects-/tree/BotDev)
 
-Build an Coding Assistant.
+Build a Coding Assistant.
 
 ![Coding](https://github.com/JavascriptDon/GPT-4-Projects-/assets/101202952/d466131d-f3ad-4e42-926c-ba64283572fd)
